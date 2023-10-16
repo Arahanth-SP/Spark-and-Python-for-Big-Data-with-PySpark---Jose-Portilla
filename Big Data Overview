@@ -12,4 +12,7 @@ Big Data:
 o	Try using a SQL database to move storage onto hard drive instead of RAM
 o	Or use a distributed system, that distributes the data into multiple machines/computer.
 
+Local versus Distributed System:
+•	A local process will use the computation resources of a single machine
+•	A distributed process has a access to the computational resources across a number of machines connected through a network
 
