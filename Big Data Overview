@@ -6,3 +6,10 @@ Big Data Overview:
 •	Overview of Hadoop Ecosystem
 •	Overview of Spark
 
+Big Data:
+•	Data that can fit on a local computer, in the scale of 0-32 GB depending on RAM.
+•	But what can we do if we have a larger set of data?
+o	Try using a SQL database to move storage onto hard drive instead of RAM
+o	Or use a distributed system, that distributes the data into multiple machines/computer.
+
+
