@@ -20,4 +20,13 @@ Local versus Distributed System:
 •	They also include fault tolerance, if one machine fails, the whole network can still go on.
 •	Let’s discuss the typical format of a distributed architecture that uses Hadoop
 
+Hadoop:
+•	Hadoop is a way to distribute very large files across multiple machines
+•	It uses the Hadoop Distributed File System (HDFS)
+•	HDFS allows a user to work with large data sets
+•	HDFS also duplicates blocks of data for fault tolerance
+•	It also then uses MapReduce
+•	MapReduce allows computations on that data
+
+
 
