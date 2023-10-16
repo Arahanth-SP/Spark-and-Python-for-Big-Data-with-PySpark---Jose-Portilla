@@ -15,4 +15,9 @@ o	Or use a distributed system, that distributes the data into multiple machines/
 Local versus Distributed System:
 •	A local process will use the computation resources of a single machine
 •	A distributed process has a access to the computational resources across a number of machines connected through a network
+•	After a certain point, it is easier to scale out to many lower CPU machines, than to try to scale up to a single machine with a high CPU.
+•	Distributed machines also have the advantage of easily scaling, you can just add more machines
+•	They also include fault tolerance, if one machine fails, the whole network can still go on.
+•	Let’s discuss the typical format of a distributed architecture that uses Hadoop
+
 
