@@ -28,5 +28,13 @@ Hadoop:
 •	It also then uses MapReduce
 •	MapReduce allows computations on that data
 
+Master Node OR Name Node has its own CPU and RAM
+Which controls the Data Node having its own CPU and RAM
+
+•	HDFS will use blocks of data, with a size of 128 MB by default 
+•	Each of these blocks is replicated 3 times
+•	The blocks are distributed in a way to support fault tolerance
+
+
 
 
